@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a268a2dc-b11a-4d1a-b368-c291e1dcdabc" name="Default Changelist" comment="start" />
+    <list default="true" id="a268a2dc-b11a-4d1a-b368-c291e1dcdabc" name="Default Changelist" comment="start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="987db525-9978-45d7-98d7-e128404d0ea8" />
+        <option name="url" value="https://github.com/AzarovArtyom/todo.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="1t27azHJAX4WU0EP99fyFLpztsA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,7 +58,7 @@
       <workItem from="1621966132395" duration="2109000" />
       <workItem from="1621968267454" duration="1788000" />
       <workItem from="1621970073535" duration="1798000" />
-      <workItem from="1621971890610" duration="1306000" />
+      <workItem from="1621971890610" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1621971671930</created>
@@ -78,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621973172666</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="start">
+      <created>1621973245023</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621973245023</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +107,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
